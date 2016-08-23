@@ -1,5 +1,6 @@
-# Individual Challenges
+# Individual Challenges from NSS Static Web Module
 
+## Description
 ###### <a id="challenge-1"></a>
 ## Challenge \#1 <a id="challenge-1"></a>
 
@@ -42,3 +43,18 @@ What is the difference between the sum of the squares of the first ten natural n
 Your challenge is to replicate the shapes, and the animations that you see in the animated GIF below. You must **only use CSS**. No JavaScript and no images.
 
 <img src="fKDwWc0Stk.gif">
+
+## How to Run
+First clone the repo and then go to your terminal.
+
+```
+cd challenges
+http-server -p 4040
+```
+Then navigate to http://localhost:4040 in your browser.
+
+## Contributors
+- [Zoe LeBlanc](https://github.com/ZoeLeBlanc)
+- [NSS Individual Challenges](https://github.com/nashville-software-school/front-end-milestones/blob/master/2-the-static-web/challenges/SW_INDIVIDUAL_CHALLENGES.md)
+
+
